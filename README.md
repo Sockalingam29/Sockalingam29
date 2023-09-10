@@ -26,8 +26,8 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sockalingam29&show_icons=true&locale=en&layout=compact" alt="sockalingam29" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sockalingam29&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="sockalingam29" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sockalingam29&show_icons=true&locale=en" alt="sockalingam29" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sockalingam29&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="sockalingam29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sockalingam29&" alt="sockalingam29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sockalingam29&theme=dark&hide_border=false&layout=compact" alt="sockalingam29" /></p>
